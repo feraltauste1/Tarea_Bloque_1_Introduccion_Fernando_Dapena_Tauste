@@ -9,7 +9,7 @@ Tarea del Bloque 1: Introducción. Máster MIAX.
 Cosas a destacar en este README: 
 <p align="justify">
 - Estructura: la estructura de mi práctica consiste en una serie de clases, sin herencias (no he sabido como implementarlas de manera coherente), las cuales tienen cada una un objetivo claro y distinto de las otras:
-        1) DataExtractor: descarga de datos históricos de varios orígenes (APIs). En esta clase he incluido una función que             descargue datos de criptomonedas de CoinGecko. Además, he incluido aqui los módulos de normalización,              validación, limpieza y datos estadísticos.
+        1) DataExtractor: descarga de datos históricos de varios orígenes (APIs). En esta clase he incluido una función que             descargue datos de criptomonedas de CoinGecko. Además, he incluido aquí los módulos de normalización,              validación, limpieza y datos estadísticos.
         2) PriceBar: representa una observación individual de precios.
         3) PriceSeries: agrupa todas las barras de PriceBar (series completas de precios) de un solo activo/ticker.
         4) Helpers: funciones auxiliares que no pertenecen a ninguna clase en específico. 
