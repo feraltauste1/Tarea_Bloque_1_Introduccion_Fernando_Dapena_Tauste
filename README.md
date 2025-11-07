@@ -1,4 +1,4 @@
-# README DE LA TAREA 1:
+# README DE LA TAREA 1
 
 Tarea del Bloque 1: Introducción. Máster MIAX.
 
