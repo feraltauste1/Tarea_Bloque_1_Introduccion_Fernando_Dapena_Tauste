@@ -9,11 +9,11 @@ Tarea del Bloque 1: Introducción. Máster MIAX.
 Cosas a destacar en este README: 
 <p align="justify">
 - Estructura: la estructura de mi práctica consiste en una serie de clases, sin herencias (no he sabido como implementarlas de manera coherente), las cuales tienen cada una un objetivo claro y distinto de las otras:
-        - DataExtractor: descarga de datos históricos de varios orígenes (APIs). En esta clase he incluido una función que             descargue datos de criptomonedas de CoinGecko. Además, en esta clase he incluido todo el tema de normalización,              validación, limpieza y datos estadísticos.
-        - PriceBar: representa una observación individual de precios.
-        - PriceSeries: agrupa todas las barras de PriceBar (series completas de precios) de un solo activo/ticker.
-        - Helpers: funciones auxiliares que no pertenecen a ninguna clase en específico. 
-        - Portfolio: esta clase tiene como función principal la representación de la cartera/tickers. En ella se ha definido           la simulación de Monte Carlo y el report/plots_report.
+        1) DataExtractor: descarga de datos históricos de varios orígenes (APIs). En esta clase he incluido una función que             descargue datos de criptomonedas de CoinGecko. Además, he incluido módulos de normalización,              validación, limpieza y datos estadísticos.
+        2) PriceBar: representa una observación individual de precios.
+        3) PriceSeries: agrupa todas las barras de PriceBar (series completas de precios) de un solo activo/ticker.
+        4) Helpers: funciones auxiliares que no pertenecen a ninguna clase en específico. 
+        5) Portfolio: esta clase tiene como función principal la representación de la cartera/tickers. En ella se ha definido           la simulación de Monte Carlo y el report/plots_report.
 </p>
 <p align="justify">
 - Carpeta src: contiene dos archivos .py, uno con el cuerpo principal del código y otro con el programa ejecutor del código que permite mostrar todo lo pedido en el enunciado. En este último se observará que los DataFrames pueden presentarse en dos formatos (long y wide), pero he decidido solo mostrar el wide por ser más legible y para evitar duplicar la información mostrada.
