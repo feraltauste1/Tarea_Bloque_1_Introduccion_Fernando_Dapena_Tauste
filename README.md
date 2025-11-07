@@ -1,6 +1,6 @@
 # **README DE LA TAREA 1**
 
-Tarea del Bloque 1: Introducción. Máster MIAX.
+***Tarea del Bloque 1: Introducción. Máster MIAX.***
 
 <p align="justify">
 ¿En qué consiste la tarea? La tarea consiste en crear un programa capaz de extraer datos históricos tanto de acciones como de índices (información bursátil), los cuales deben ser validados y limpiados para, posteriormente, mostrar información relevante sobre ellos, así como gráficos y una o varias simulaciones de Monte Carlo.
