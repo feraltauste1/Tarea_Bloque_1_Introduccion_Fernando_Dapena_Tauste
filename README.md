@@ -1,4 +1,4 @@
-# Práctica-1-GitHub-Python
+# README DE LA TAREA 1:
 
 Tarea del Bloque 1: Introducción. Máster MIAX.
 
